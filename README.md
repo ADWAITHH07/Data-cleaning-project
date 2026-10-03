@@ -32,7 +32,7 @@ The main goal was to understand how raw data can be cleaned, organized, and expl
 
 Restaurant-Data-Cleaning/
 │
-├── restaurant_data_cleaning.ipynb
+├── data_cleaning_project.ipynb
 ├── restaurant_data.csv
 └── README.md
 
